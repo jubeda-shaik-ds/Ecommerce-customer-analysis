@@ -2,6 +2,7 @@
 
 ## 📌 Project Overview
 
+
 This project analyzes customer behavior and sales distribution using multiple e-commerce datasets. It focuses on understanding customer locations and their contribution to sales.
 
 ---
